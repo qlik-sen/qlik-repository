@@ -1,0 +1,2 @@
+# qlik-repository
+クリックセンスサンプル用
